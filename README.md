@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @vinhdoanthe
-- 👀 I’m interested in EdTech industry
-- 🌱 I’m currently learning DevOps skills
-- 💞️ I’m looking to collaborate on high impacted projects
-<!-- - 📫 How to reach me ... -->
+Hi, My name is Doan The Vinh.
 
-<!---
-vinhdoanthe/vinhdoanthe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a developer with eight years of experience in software development. I’m an enthusiastic and open-minded person. I like talking to users, getting requirements, thinking about solutions, designing and developing features, and getting feedback.
